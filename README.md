@@ -14,4 +14,4 @@ DAX Básico/Intermedio:Creación de medidas para calcular márgenes de ganancia 
 
 ## Insights Principales
 Aunque la subcategoría "Tables" tiene muchas ventas, genera pérdidas importantes. Es un producto crítico que necesita revisión.
-Descuentos peligrosos:** Noté que cuando los descuentos superan el 20%, la rentabilidad cae drásticamente.
+Descuentos peligrosos: Noté que cuando los descuentos superan el 20%, la rentabilidad cae drásticamente.
